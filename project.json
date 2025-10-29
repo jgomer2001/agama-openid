@@ -55,7 +55,8 @@
                 }
             }
         },
-        "a.test": {}
+        "a.test": {},
+        "code": {}
     },
     "name": "agama-openid"
 }
