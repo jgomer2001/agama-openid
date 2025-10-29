@@ -54,7 +54,8 @@
                     }
                 }
             }
-        }
+        },
+        "a.test": {}
     },
     "name": "agama-openid"
 }
